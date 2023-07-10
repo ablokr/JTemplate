@@ -3,15 +3,6 @@
 <html b:css='false' b:js='true' b:version='2' class='v2' expr:dir='data:blog.languageDirection' lang='tr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
     <meta charset='UTF-8'/>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async='async' src='https://www.googletagmanager.com/gtag/js?id=UA-105364251-1'/>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag(&#39;js&#39;, new Date());
-
-  gtag(&#39;config&#39;, &#39;UA-105364251-1&#39;);
-</script>
 <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js'/>
   <link href='https://pro.fontawesome.com/releases/v5.6.3/css/all.css' rel='stylesheet'/>
 <meta content='Zafer Zent' name='author'/>
@@ -2455,38 +2446,6 @@ princewedding.oncountup=function(result){
     </div>
 
     <div class='footer__extras'>
-
-      <!--<ul class='socials'>
-
-  <li class='socials__item'>
-    <a class='socials__item__link js-contact' href='/' target='_blank' title='Email Us'>
-      <i aria-hidden='true' class='far fa-envelope'/>
-    </a>
-  </li>
-
-  
-  
-  <li class='socials__item'>
-    <a class='socials__item__link' href='https://www.facebook.com/jekyllthemes/' target='_blank' title='Facebook'>
-      <i aria-hidden='true' class='fab fa-facebook-f'/>
-    </a>
-  </li>
-  
-  
-  
-  <li class='socials__item'>
-    <a class='socials__item__link' href='https://twitter.com/jekyllthemesio' target='_blank' title='Twitter'>
-      <i aria-hidden='true' class='fab fa-twitter'/>
-    </a>
-  </li>
-  
-  
-  
-  
-  
-  
-  
-</ul>-->
 
       <div class='footer__copyright'>
         <a href='/sitemap.xml'>Sitemap</a>
